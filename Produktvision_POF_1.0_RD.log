@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.7)  11 NOV 2017 14:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.7)  11 NOV 2017 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,7 +395,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \c@subfigure=\count89
 \c@subtable=\count90
 )
-No file Produktvision_POF_1.0_RD.aux.
+(./Produktvision_POF_1.0_RD.aux)
 \openout1 = `Produktvision_POF_1.0_RD.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -410,6 +410,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count91
@@ -528,8 +529,8 @@ hl^^?age f^^?ur ^^?ahnliche
 tep1.png> <./res/step2.png> <./res/step3.png>] [2] [3]
 (./Produktvision_POF_1.0_RD.aux) ) 
 Here is how much of TeX's memory you used:
- 2922 strings out of 492995
- 44554 string characters out of 6132704
+ 2924 strings out of 492995
+ 44612 string characters out of 6132704
  106989 words of memory out of 5000000
  6466 multiletter control sequences out of 15000+600000
  5756 words of font info for 21 fonts, out of 8000000 for 9000
@@ -539,7 +540,7 @@ Here is how much of TeX's memory you used:
 e1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmr12.pfb>
-Output written on Produktvision_POF_1.0_RD.pdf (3 pages, 119107 bytes).
+Output written on Produktvision_POF_1.0_RD.pdf (3 pages, 119419 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
